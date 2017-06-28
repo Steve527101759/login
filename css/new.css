@@ -14,7 +14,7 @@ body{
 	float: left;
 	text-decoration: none;
 	color: #fff;
-	line-height: 30px;
+	line-height: 56px;
 	font-size: 25px;
 
 }
@@ -22,11 +22,12 @@ body{
 	float: right;
 	text-decoration: none;
 	color: #fff;
-	line-height: 30px;
+	line-height: 56px;
 	font-size: 25px;
 }
 .header h2{
 	margin: 0;
+	line-height: 56px;
 }
 .login-table input[type=text]{
 	width: 100%;
