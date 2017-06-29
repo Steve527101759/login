@@ -16,7 +16,7 @@ body{
 	color: #fff;
 	line-height: 56px;
 	font-size: 25px;
-
+  
 }
 .right-att{
 	float: right;
@@ -63,4 +63,7 @@ body{
     color: #fff;
     letter-spacing: 10px;
     font-size: 30px;
+}
+.footer{
+	text-align: right;
 }
